@@ -8,33 +8,35 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br /> I am a final year student pursuing an Integrated MSc (IMSc)
-            in Maths and Computing at BIT Mesra.
+            Hi Everyone, I am <span className="purple">Adby Santos </span>
+            from <span className="purple"> Paraíba, Brasil.</span>
+            <br />I've been a professional Mobile Apps Developer with Flutter, a Google's framework, since 2020. I've worked on over a dozen apps from several businesses, like security, education and entertainment.
+            <br />I'm graduated with a bachelor's degree in Information Technology (BIT) at UFERSA Pau dos Ferros.
             <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
+            Additionally, I'm a teacher and mentor at FTeam. Together, we've helped <span className="purple"> over one hundred people</span> to leverage Flutter to their companies.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
+              <ImPointRight /> Working out
+            </li>
+            <li className="about-activity">
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Creating content about Flutter
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Hanging out with my wife
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Commend what you do to Yahweh, and what you plan will be achieved."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">The Proverbs 16, 3 </footer>
         </blockquote>
       </Card.Body>
     </Card>
