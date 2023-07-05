@@ -9,11 +9,11 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Adby Santos </span>
-            from <span className="purple"> Paraíba, Brasil.</span>
-            <br />I've been a professional Mobile Apps Developer with Flutter, a Google's framework, since 2020. I've worked on over a dozen apps from several businesses, like security, education and entertainment.
+            from <span className="purple"> Brazil.</span>
+            <br />I've been a professional Mobile Apps Developer with Flutter, a Google's framework, since 2020. I've worked on <span className="purple"> over a dozen apps </span> from several businesses, like security, education and entertainment.
             <br />I'm graduated with a bachelor's degree in Information Technology (BIT) at UFERSA Pau dos Ferros.
             <br />
-            Additionally, I'm a teacher and mentor at FTeam. Together, we've helped <span className="purple"> over one hundred people</span> to leverage Flutter to their companies.
+            Additionally, I'm a teacher and mentor at FTeam. Together, we've helped <span className="purple"> over one hundred people</span> to leverage code quality with Flutter to their companies.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -23,13 +23,13 @@ function AboutCard() {
               <ImPointRight /> Working out
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Creating content about Flutter
+              <ImPointRight /> Creating content
             </li>
             <li className="about-activity">
-              <ImPointRight /> Hanging out with my wife
+              <ImPointRight /> Loving my wife
             </li>
           </ul>
 
