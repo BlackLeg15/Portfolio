@@ -616,6 +616,11 @@ button:focus {
   justify-content: center;
 }
 
+.resume-end {
+  padding-bottom: 50px;
+  justify-content: center;
+}
+
 .resume-left {
   padding-right: 80px !important;
 }
