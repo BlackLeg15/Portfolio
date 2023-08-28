@@ -53,7 +53,14 @@ function Home2() {
               <b className="purple">
                   {" "}
                   Dart
-                </b>
+                </b>.
+              <br />
+              <br />
+              Last but not least, I'd like to thank Soumyajit Behera for developing this amazing portfolio template. You can find the original project <a
+                  href="https://github.com/soumyajit4419/Portfolio"
+                  target="_blank"
+                  rel="noreferrer"
+                >here</a>.
               </p>
           </Col>
           <Col md={4} className="myAvtar">
